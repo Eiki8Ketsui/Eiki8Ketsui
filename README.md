@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Eiki8Ketsui
+- 👀 I’m interested in learning how to create amazing escape room
+- 🌱 I’m currently learning C , and git/github
+- 💞️ I’m looking to collaborate on every kind of projets !
+- 📫 How to reach me ...
+- ⚡ Fun fact: ...
